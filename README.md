@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Design-pattern
-=======
 # Design Pattern VS SOLID
 
 ## Design Pattern
@@ -48,4 +45,3 @@
    11. Visitor
 
    - Nhóm này liên quan đến các quan hệ hành vi để xử lí các chức năng giữa các đối tượng trong hệ thống.
->>>>>>> e86ba25 (first commit)
